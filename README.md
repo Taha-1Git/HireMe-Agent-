@@ -277,3 +277,7 @@ This foundation is ready for:
 ## License
 
 Proprietary – TrueHire AI
+
+---
+
+Author: **Muhammad Taha** ([@Taha-1Git](https://github.com/Taha-1Git))
